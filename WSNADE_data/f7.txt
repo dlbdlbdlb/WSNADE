@@ -1,0 +1,536 @@
+====================================          1
+外部存档大小为31
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 35 global optimizers.
+In the accuracy == 0.001, there exist 35 global optimizers.
+In the accuracy == 0.0001, there exist 34 global optimizers.
+In the accuracy == 0.00001, there exist 33 global optimizers.
+第1次所用时间为：2804.100054502487
+
+
+====================================          2
+外部存档大小为28
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第2次所用时间为：2680.289033651352
+
+
+====================================          3
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 29 global optimizers.
+In the accuracy == 0.001, there exist 29 global optimizers.
+In the accuracy == 0.0001, there exist 29 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第3次所用时间为：2657.7081394195557
+
+
+====================================          4
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第4次所用时间为：2658.9120802879333
+
+
+====================================          5
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第5次所用时间为：2581.283656358719
+
+
+====================================          6
+外部存档大小为31
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 30 global optimizers.
+In the accuracy == 0.0001, there exist 29 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第6次所用时间为：2454.390232563019
+
+
+====================================          7
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 34 global optimizers.
+In the accuracy == 0.001, there exist 34 global optimizers.
+In the accuracy == 0.0001, there exist 34 global optimizers.
+In the accuracy == 0.00001, there exist 34 global optimizers.
+第7次所用时间为：2453.395542383194
+
+
+====================================          8
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 34 global optimizers.
+In the accuracy == 0.001, there exist 33 global optimizers.
+In the accuracy == 0.0001, there exist 33 global optimizers.
+In the accuracy == 0.00001, there exist 33 global optimizers.
+第8次所用时间为：3042.9107263088226
+
+
+====================================          9
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 30 global optimizers.
+In the accuracy == 0.0001, there exist 29 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第9次所用时间为：3542.0879170894623
+
+
+====================================          10
+外部存档大小为28
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 29 global optimizers.
+In the accuracy == 0.001, there exist 28 global optimizers.
+In the accuracy == 0.0001, there exist 28 global optimizers.
+In the accuracy == 0.00001, there exist 28 global optimizers.
+第10次所用时间为：2962.1165738105774
+
+
+====================================          11
+外部存档大小为28
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 32 global optimizers.
+In the accuracy == 0.0001, there exist 32 global optimizers.
+In the accuracy == 0.00001, there exist 32 global optimizers.
+第11次所用时间为：3202.4756922721863
+
+
+====================================          12
+外部存档大小为23
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 29 global optimizers.
+In the accuracy == 0.0001, there exist 29 global optimizers.
+In the accuracy == 0.00001, there exist 28 global optimizers.
+第12次所用时间为：2945.6083002090454
+
+
+====================================          13
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 35 global optimizers.
+In the accuracy == 0.001, there exist 32 global optimizers.
+In the accuracy == 0.0001, there exist 32 global optimizers.
+In the accuracy == 0.00001, there exist 32 global optimizers.
+第13次所用时间为：2776.323760032654
+
+
+====================================          14
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 32 global optimizers.
+In the accuracy == 0.0001, there exist 32 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第14次所用时间为：2613.7032041549683
+
+
+====================================          15
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 30 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第15次所用时间为：2574.8681104183197
+
+
+====================================          16
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 33 global optimizers.
+In the accuracy == 0.0001, there exist 33 global optimizers.
+In the accuracy == 0.00001, there exist 33 global optimizers.
+第16次所用时间为：2292.305141210556
+
+
+====================================          17
+外部存档大小为28
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第17次所用时间为：1644.500369310379
+
+
+====================================          18
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 32 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第18次所用时间为：1611.8071615695953
+
+
+====================================          19
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第19次所用时间为：1458.1077852249146
+
+
+====================================          20
+外部存档大小为24
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第20次所用时间为：1496.789098739624
+
+
+====================================          21
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 34 global optimizers.
+In the accuracy == 0.001, there exist 34 global optimizers.
+In the accuracy == 0.0001, there exist 34 global optimizers.
+In the accuracy == 0.00001, there exist 33 global optimizers.
+第21次所用时间为：1443.5105469226837
+
+
+====================================          22
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第22次所用时间为：1369.9868459701538
+
+
+====================================          23
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 30 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第23次所用时间为：1347.7599687576294
+
+
+====================================          24
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第24次所用时间为：1330.759982585907
+
+
+====================================          25
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第25次所用时间为：1320.6338081359863
+
+
+====================================          26
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 32 global optimizers.
+In the accuracy == 0.0001, there exist 32 global optimizers.
+In the accuracy == 0.00001, there exist 32 global optimizers.
+第26次所用时间为：1349.4511456489563
+
+
+====================================          27
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 35 global optimizers.
+In the accuracy == 0.001, there exist 35 global optimizers.
+In the accuracy == 0.0001, there exist 35 global optimizers.
+In the accuracy == 0.00001, there exist 35 global optimizers.
+第27次所用时间为：1340.6305258274078
+
+
+====================================          28
+外部存档大小为29
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 32 global optimizers.
+In the accuracy == 0.0001, there exist 32 global optimizers.
+In the accuracy == 0.00001, there exist 32 global optimizers.
+第28次所用时间为：1312.1662833690643
+
+
+====================================          29
+外部存档大小为28
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第29次所用时间为：1345.338663816452
+
+
+====================================          30
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第30次所用时间为：1351.7415120601654
+
+
+====================================          31
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 34 global optimizers.
+In the accuracy == 0.001, there exist 34 global optimizers.
+In the accuracy == 0.0001, there exist 34 global optimizers.
+In the accuracy == 0.00001, there exist 34 global optimizers.
+第31次所用时间为：1322.7644777297974
+
+
+====================================          32
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 29 global optimizers.
+In the accuracy == 0.001, there exist 28 global optimizers.
+In the accuracy == 0.0001, there exist 28 global optimizers.
+In the accuracy == 0.00001, there exist 28 global optimizers.
+第32次所用时间为：1313.5189011096954
+
+
+====================================          33
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第33次所用时间为：1326.3339385986328
+
+
+====================================          34
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 30 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第34次所用时间为：1292.5173408985138
+
+
+====================================          35
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 30 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第35次所用时间为：1343.437259197235
+
+
+====================================          36
+外部存档大小为26
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 30 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第36次所用时间为：1310.0433192253113
+
+
+====================================          37
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 30 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第37次所用时间为：1343.9758718013763
+
+
+====================================          38
+外部存档大小为23
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 32 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第38次所用时间为：1302.1249361038208
+
+
+====================================          39
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 32 global optimizers.
+In the accuracy == 0.0001, there exist 32 global optimizers.
+In the accuracy == 0.00001, there exist 32 global optimizers.
+第39次所用时间为：1250.3776683807373
+
+
+====================================          40
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 29 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第40次所用时间为：1183.9943614006042
+
+
+====================================          41
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 34 global optimizers.
+In the accuracy == 0.001, there exist 33 global optimizers.
+In the accuracy == 0.0001, there exist 33 global optimizers.
+In the accuracy == 0.00001, there exist 33 global optimizers.
+第41次所用时间为：1477.2479004859924
+
+
+====================================          42
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第42次所用时间为：1803.9801886081696
+
+
+====================================          43
+外部存档大小为28
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 33 global optimizers.
+In the accuracy == 0.0001, there exist 33 global optimizers.
+In the accuracy == 0.00001, there exist 33 global optimizers.
+第43次所用时间为：1798.4260747432709
+
+
+====================================          44
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 33 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第44次所用时间为：1210.1002106666565
+
+
+====================================          45
+外部存档大小为28
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 31 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第45次所用时间为：1200.2097585201263
+
+
+====================================          46
+外部存档大小为24
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 30 global optimizers.
+In the accuracy == 0.001, there exist 29 global optimizers.
+In the accuracy == 0.0001, there exist 29 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第46次所用时间为：1141.2058680057526
+
+
+====================================          47
+外部存档大小为23
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 33 global optimizers.
+In the accuracy == 0.0001, there exist 33 global optimizers.
+In the accuracy == 0.00001, there exist 33 global optimizers.
+第47次所用时间为：1184.2197539806366
+
+
+====================================          48
+外部存档大小为28
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 32 global optimizers.
+In the accuracy == 0.001, there exist 31 global optimizers.
+In the accuracy == 0.0001, there exist 30 global optimizers.
+In the accuracy == 0.00001, there exist 30 global optimizers.
+第48次所用时间为：1112.831300497055
+
+
+====================================          49
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 29 global optimizers.
+In the accuracy == 0.001, there exist 29 global optimizers.
+In the accuracy == 0.0001, there exist 29 global optimizers.
+In the accuracy == 0.00001, there exist 29 global optimizers.
+第49次所用时间为：1063.2766313552856
+
+
+====================================          50
+外部存档大小为27
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 29 global optimizers.
+In the accuracy == 0.001, there exist 29 global optimizers.
+In the accuracy == 0.0001, there exist 29 global optimizers.
+In the accuracy == 0.00001, there exist 28 global optimizers.
+第50次所用时间为：1054.8089771270752
+
+
+====================================          51
+外部存档大小为25
+In the accuracy == 0.1, there exist 36 global optimizers.
+In the accuracy == 0.01, there exist 33 global optimizers.
+In the accuracy == 0.001, there exist 33 global optimizers.
+In the accuracy == 0.0001, there exist 31 global optimizers.
+In the accuracy == 0.00001, there exist 31 global optimizers.
+第51次所用时间为：1073.1345853805542
+
+
+51次的峰数分别为：
+In the accuracy == 0.1:
+record == [36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36]
+PR is : 1.0
+SR is : 1.0
+
+In the accuracy == 0.01:
+record == [35, 31, 29, 32, 31, 30, 34, 34, 30, 29, 33, 30, 35, 32, 30, 33, 31, 32, 32, 32, 34, 33, 32, 31, 31, 33, 35, 32, 31, 32, 34, 29, 31, 30, 30, 30, 30, 32, 33, 32, 34, 31, 33, 33, 31, 30, 33, 32, 29, 29, 33]
+PR is : 0.8812636165577342
+SR is : 0.0
+
+In the accuracy == 0.001:
+record == [35, 31, 29, 31, 31, 30, 34, 33, 30, 28, 32, 29, 32, 32, 30, 33, 31, 32, 31, 31, 34, 31, 30, 31, 31, 32, 35, 32, 31, 31, 34, 28, 31, 30, 30, 30, 30, 32, 32, 31, 33, 31, 33, 33, 31, 29, 33, 31, 29, 29, 33]
+PR is : 0.869281045751634
+SR is : 0.0
+
+In the accuracy == 0.0001:
+record == [34, 31, 29, 31, 30, 29, 34, 33, 29, 28, 32, 29, 32, 32, 30, 33, 31, 30, 31, 31, 34, 31, 30, 31, 31, 32, 35, 32, 31, 31, 34, 28, 31, 30, 30, 30, 30, 31, 32, 29, 33, 31, 33, 31, 31, 29, 33, 30, 29, 29, 31]
+PR is : 0.8616557734204793
+SR is : 0.0
+
+In the accuracy == 0.00001:
+record == [33, 31, 29, 31, 30, 29, 34, 33, 29, 28, 32, 28, 32, 31, 30, 33, 31, 30, 31, 31, 33, 29, 30, 31, 31, 32, 35, 32, 30, 31, 34, 28, 30, 29, 30, 29, 30, 30, 32, 29, 33, 31, 33, 31, 31, 29, 33, 30, 29, 28, 31]
+PR is : 0.855119825708061
+SR is : 0.0
+
